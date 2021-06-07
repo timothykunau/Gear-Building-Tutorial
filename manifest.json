@@ -46,5 +46,5 @@
       "type": "integer"
     }
   },
-  "command": "python run.py"
+  "command": "python3 run.py"
 }
